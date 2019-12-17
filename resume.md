@@ -96,8 +96,8 @@ Experience in...
 ----------------------------------------
 
 * Web Development
-** Drupal
-** Wordpress
+    * Drupal
+    * Wordpress
 ** HTML
 ** CSS
 ** SASS
