@@ -98,59 +98,59 @@ Experience in...
 * Web Development
     * Drupal
     * Wordpress
-** HTML
-** CSS
-** SASS
-** PHP
-** Javascript
-** Git
-** Markdown
-** Ruby on rails
-** Static site generators
-** XML, XSLT, XPath, and XQuery
+    * HTML
+    * CSS
+    * SASS
+    * PHP
+    * Javascript
+    * Git
+    * Markdown
+    * Ruby on rails
+    * Static site generators
+    * XML, XSLT, XPath, and XQuery
 * System Administration
-** Linux
-** Apache2
-** Ngnix
-** AWS
-** Google Cloud Platform
-** Apache Tomcat
-** Regex
-** Solr
-** FreeNAS
-** Synology DSM
+    * Linux
+    * Apache2
+    * Ngnix
+    * AWS
+    * Google Cloud Platform
+    * Apache Tomcat
+    * Regex
+    * Solr
+    * FreeNAS
+    * Synology DSM
 * Task Automation
-** Powershell
-** Python
-* Database Administration
-** SQL
-** MySQL
-** Microsoft SQLServer
-** Microsoft Access
-** SPARQL
+    * Powershell
+    * Python
+    * Database Administration
+    * SQL
+    * MySQL
+    * Microsoft SQLServer
+    * Microsoft Access
+    * SPARQL
 * Digital Media
-** Adobe Audition
-** GNUIMP
-** Adobe Photoshop
-** FFMPEG
-** Ghostscript
-** Audacity
+    * Adobe Audition
+    * GNUIMP
+    * Adobe Photoshop
+    * FFMPEG
+    * Ghostscript
+    * Audacity
 * Library, Archive, and Museum Systems
-** Fedora Commons
-** Islandora
-** ArchivesSpace
-** Archivist's Toolkit
-** Archon
-** ArchiveIt
-** Bepress Digital Commons
-** Archivematica
-** CONTENTdm
-** XTF
-** EOS
-** Digitool
-** OJS
-** SobekCM
+    * Fedora Commons
+    * Islandora
+    * ArchivesSpace
+    * Archivist's Toolkit
+    * Archon
+    * ArchiveIt
+    * Bepress Digital Commons
+    * Archivematica
+    * CONTENTdm
+    * XTF
+    * EOS
+    * Digitool
+    * OJS
+    * SobekCM
 * All the initialisms you've come to love
-** DC, MARC, METS, EAD, MESH, OAI-PMH, IIIF, RDA, DACS, and so many more... 
+    * DC, MARC, METS, EAD, MESH, OAI-PMH, IIIF, RDA, DACS, and so many more... 
 
 I also cut my own hair and make meatballs from scatch.
