@@ -95,15 +95,62 @@ Professional Memberships and Certifications
 Experience in...
 ----------------------------------------
 
-Adobe Audition • Agile development • Apache Tomcat • Apache Web Server • ArchiveSpace • Archivists
-Toolkit • ArchiveIt • Archon • Atom • Audacity • AWS • BagIt • Bash/Csh • Bepress Digital Commons *
-CONTENTdm • Data Management • Digital Preservation • Digitization Standards and Best Practices
-• DigiTool • Drupal • E-Prime • EOS • Fedora Commons • Ffmpeg/Handbrake • FreeNAS • Ghostscript
-• Git • GnuImp/Photoshop • Google Cloud Platform • HeidiSQL • HTML & CSS • IIIF • Islandora
-• Javascript • Jekyll • Let’s encrypt/Certbot • Linux/Unix • Markdown • MeSH, TGM, LC, DACS,
-AARC, RDA • METS, DC, EAD, MARCXML, OAI-PMH • Microsoft Access • Microsoft Dynamics CRM
-• Microsoft SQLServer • MySQL • Nginix • NotePad++ • OCR • Open Journal Systems
-• OpenBase • PHP • Postman • Powershell • PURL toolkit • Python • QuestionPoint • RDF • Regular
-expressions • Request Tracker • Ruby • SobekCM • Solr • SQL • SSH • Versatile Enterprise R&M •
-Vim • Visio • VMWare • WinSCP/FileZilla • WordPress • XPontus/Oxygen • XTF •
-XML/XSLT/XPath/XQuery • ZohoDesk
+* Web Development
+** Drupal
+** Wordpress
+** HTML
+** CSS
+** SASS
+** PHP
+** Javascript
+** Git
+** Markdown
+** Ruby on rails
+** Static site generators
+** XML, XSLT, XPath, and XQuery
+* System Administration
+** Linux
+** Apache2
+** Ngnix
+** AWS
+** Google Cloud Platform
+** Apache Tomcat
+** Regex
+** Solr
+** FreeNAS
+** Synology DSM
+* Task Automation
+** Powershell
+** Python
+* Database Administration
+** SQL
+** MySQL
+** Microsoft SQLServer
+** Microsoft Access
+** SPARQL
+* Digital Media
+** Adobe Audition
+** GNUIMP
+** Adobe Photoshop
+** FFMPEG
+** Ghostscript
+** Audacity
+* Library, Archive, and Museum Systems
+** Fedora Commons
+** Islandora
+** ArchivesSpace
+** Archivist's Toolkit
+** Archon
+** ArchiveIt
+** Bepress Digital Commons
+** Archivematica
+** CONTENTdm
+** XTF
+** EOS
+** Digitool
+** OJS
+** SobekCM
+* All the initialisms you've come to love
+** DC, MARC, METS, EAD, MESH, OAI-PMH, IIIF, RDA, DACS, and so many more... 
+
+I also cut my own hair and make meatballs from scatch.
