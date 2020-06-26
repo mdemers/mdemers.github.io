@@ -1,6 +1,6 @@
 # Site settings
 title: Mike Demers
-description: 'Sedentary day-laborer - Newark, DE'
+description: 'Newark, DE'
 url: 'https://mdemersjr.com'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ baseurl: ''
 author:
   name: 'Mike Demers'
   email: mikedemersjr@gmail.com
-  twitter_username: tubnubbins
+  # twitter_username: tubnubbins
   facebook_username: 
   github_username:  mdemers
   linkedin_username:
