@@ -5,7 +5,7 @@ Education
 ---------
 
 #### **Master of Library & Information Science**; Syracuse University (Syracuse, NY).  
-**August 2009 - May 2011.**    
+**August 2011 - May 2013.**    
 Certificate of Advanced Studies in Digital Libraries
 
 #### **Bachelor of Arts, Psychology**; Temple University (Philadelphia, PA).    
